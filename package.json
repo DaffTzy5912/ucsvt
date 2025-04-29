@@ -1,0 +1,10 @@
+{
+  "name": "tiktok-search",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "vercel build",
+    "start": "vercel preview"
+  },
+  "dependencies": {}
+}
